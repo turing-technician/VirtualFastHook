@@ -1,0 +1,14 @@
+Executable : E:\AndroidSDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HF:\Test\FastHookApp\fasthook
+-BF:\Test\FastHookApp\fasthook\.externalNativeBuild\cmake\debug\x86
+-DANDROID_ABI=x86
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=F:\Test\FastHookApp\fasthook\build\intermediates\cmake\debug\obj\x86
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=E:\AndroidSDK\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=E:\AndroidSDK\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=E:\AndroidSDK\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

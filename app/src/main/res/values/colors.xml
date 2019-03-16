@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607191</color>
+    <color name="colorPrimaryDark">#2A364C</color>
+    <color name="colorAccent">#607191</color>
+
+    <color name="desktopColorA">#2C3B4E</color>
+    <color name="desktopColorB">#314155</color>
+    <color name="desktopColorC">#324257</color>
+
+</resources>

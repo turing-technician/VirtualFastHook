@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--Card Stack-->
+    <dimen name="card_gap">60dp</dimen>
+    <dimen name="card_gap_bottom">5dp</dimen>
+    <dimen name="dp30">30dp</dimen>
+    <dimen name="dp8">8dp</dimen>
+
+    <!--Desktop-->
+    <dimen name="desktop_divider">0.5dp</dimen>
+
+    <dimen name="dsrv_defaultHotspotHeight">56dp</dimen>
+    <dimen name="line_height">40dp</dimen>
+
+</resources>

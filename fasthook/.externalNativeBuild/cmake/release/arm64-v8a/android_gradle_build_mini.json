@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "F:\\Test\\FastHookApp\\fasthook\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Test\\FastHookApp\\fasthook\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "fasthook-Release-arm64-v8a": {
+      "artifactName": "fasthook",
+      "buildCommand": "E:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Test\\FastHookApp\\fasthook\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target fasthook",
+      "abi": "arm64-v8a",
+      "output": "F:\\Test\\FastHookApp\\fasthook\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libfasthook.so"
+    }
+  }
+}

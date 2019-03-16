@@ -1,0 +1,3 @@
+F:/Test/FastHookApp/fasthook/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+F:/Test/FastHookApp/fasthook/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/fasthook.dir
+F:/Test/FastHookApp/fasthook/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir

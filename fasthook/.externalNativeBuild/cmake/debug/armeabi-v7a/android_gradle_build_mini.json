@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "F:\\Hook\\FastVirtualHook\\VirtualApp\\fasthook\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Hook\\FastVirtualHook\\VirtualApp\\fasthook\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "fasthook-Debug-armeabi-v7a": {
+      "artifactName": "fasthook",
+      "buildCommand": "E:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Hook\\FastVirtualHook\\VirtualApp\\fasthook\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target fasthook",
+      "abi": "armeabi-v7a",
+      "output": "F:\\Hook\\FastVirtualHook\\VirtualApp\\fasthook\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libfasthook.so"
+    }
+  }
+}

@@ -1,0 +1,44 @@
+
+{
+	"buildFiles" : [ "F:/Test/FastHookApp/fasthook/CMakeLists.txt" ],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"E:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Test\\FastHookApp\\fasthook\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+	],
+	"libraries" : 
+	{
+		"fasthook-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "fasthook",
+			"buildCommand" : "E:\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\Test\\FastHookApp\\fasthook\\.externalNativeBuild\\cmake\\release\\x86 --target fasthook",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=E:/AndroidSDK/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=E:/AndroidSDK/ndk-bundle/sysroot -Dfasthook_EXPORTS  -isystem E:/AndroidSDK/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/Test/FastHookApp/fasthook/src/main/cpp/fake_dlfcn.c",
+					"workingDirectory" : "F:/Test/FastHookApp/fasthook/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=E:/AndroidSDK/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64 --sysroot=E:/AndroidSDK/ndk-bundle/sysroot -Dfasthook_EXPORTS  -isystem E:/AndroidSDK/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "F:/Test/FastHookApp/fasthook/src/main/cpp/fast_hook_manager.c",
+					"workingDirectory" : "F:/Test/FastHookApp/fasthook/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "F:/Test/FastHookApp/fasthook/build/intermediates/cmake/release/obj/x86/libfasthook.so",
+			"toolchain" : "2188260979"
+		}
+	},
+	"toolchains" : 
+	{
+		"2188260979" : 
+		{
+			"cCompilerExecutable" : "E:/AndroidSDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "E:/AndroidSDK/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}
